@@ -1,2 +1,2 @@
-# clario
+# clariox
 Generador de documentos comerciales
